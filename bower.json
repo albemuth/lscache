@@ -1,0 +1,10 @@
+{
+  "name": "lscache",
+  "version": "0.0.0",
+  "main": "lscache.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
